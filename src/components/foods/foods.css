@@ -1,0 +1,22 @@
+.btn:hover {
+    color: #f91944;
+    border-bottom: 3px solid #f91944;
+    font-weight: bold;
+    margin: 2rem;
+    font-size: 1.3rem;
+}
+
+.btn {
+    color: black;
+    font-weight: bold;
+    margin: 2rem;
+    font-size: 1.3rem;
+    background-color: white;
+    border-bottom: 3px solid #fff;
+}
+
+.btn:focus {
+    outline: none;
+    color: #f91944;
+    border-bottom: 3px solid #f91944;
+}

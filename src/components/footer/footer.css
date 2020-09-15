@@ -1,0 +1,27 @@
+.footer {
+    background-color: #191919;
+}
+
+.footer-logo {
+    height: 44px;
+    margin-top: 2rem;
+}
+
+.footer a {
+    display: inline-block;
+    color: white;
+    font-weight: 300;
+}
+
+.links {
+    margin-top: 2rem;
+}
+
+.footer a:hover {
+    text-decoration: none;
+}
+
+.bottom a {
+    display: inline-block;
+    margin: 2rem;
+}

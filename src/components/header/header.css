@@ -1,0 +1,5 @@
+.header {
+    background-image: url(../../assets/bannerbackground.png);
+    height: 100vh;
+    background-position: cover;
+}

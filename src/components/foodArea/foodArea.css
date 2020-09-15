@@ -1,0 +1,13 @@
+.item-container {
+    background-color: #fcf4e0;
+    width: 80%;
+    height: 20rem;
+    padding: 1rem;
+    margin-bottom: 2rem;
+    border: 1px solid lightgray;
+    border-radius: 1rem;
+}
+
+.item-container:hover {
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1);
+}

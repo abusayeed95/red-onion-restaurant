@@ -1,0 +1,15 @@
+.heading-item {
+    height: 90vh;
+}
+
+.search {
+    display: block;
+    height: 3rem;
+    width: 50%;
+    background-color: lightgray;
+    border-radius: 5rem;
+    padding: 1rem;
+    border: none;
+    font-size: 1.2rem;
+    margin: 1rem;
+}
